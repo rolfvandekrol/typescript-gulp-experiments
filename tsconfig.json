@@ -7,6 +7,6 @@
         "outFile": "public/js/bundle.js"
     },
     "files": [
-        "app.ts"
+        "src/index.ts"
     ]
 }

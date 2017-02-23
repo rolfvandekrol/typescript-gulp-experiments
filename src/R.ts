@@ -1,0 +1,27 @@
+export function a(x: number, y:number) { return x + y + 1;}
+export function b(x: number, y:number) { return x + y + 2;}
+export function c(x: number, y:number) { return x + y + 3;}
+export function d(x: number, y:number) { return x + y + 4;}
+export function e(x: number, y:number) { return x + y + 5;}
+export function f(x: number, y:number) { return x + y + 6;}
+export function g(x: number, y:number) { return x + y + 7;}
+export function h(x: number, y:number) { return x + y + 8;}
+export function i(x: number, y:number) { return x + y + 9;}
+export function j(x: number, y:number) { return x + y + 10;}
+export function k(x: number, y:number) { return x + y + 11;}
+export function l(x: number, y:number) { return x + y + 12;}
+export function m(x: number, y:number) { return x + y + 13;}
+export function n(x: number, y:number) { return x + y + 14;}
+export function o(x: number, y:number) { return x + y + 15;}
+export function p(x: number, y:number) { return x + y + 16;}
+export function q(x: number, y:number) { return x + y + 17;}
+export function r(x: number, y:number) { return x + y + 18;}
+export function s(x: number, y:number) { return x + y + 19;}
+export function t(x: number, y:number) { return x + y + 20;}
+export function u(x: number, y:number) { return x + y + 21;}
+export function v(x: number, y:number) { return x + y + 22;}
+export function w(x: number, y:number) { return x + y + 23;}
+export function x(x: number, y:number) { return x + y + 24;}
+export function y(x: number, y:number) { return x + y + 25;}
+export function z(x: number, y:number) { return x + y + 26;}
+
