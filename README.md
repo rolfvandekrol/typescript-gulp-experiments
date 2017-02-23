@@ -1,4 +1,4 @@
-# Typescript / Gulp expirmentation
+# Typescript / Gulp experiments
 
 ## Install
 
